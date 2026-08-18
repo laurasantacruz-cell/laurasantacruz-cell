@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá! Eu sou a Laura
+# Olá! Eu sou a Laura
 
-### 💻 Software Engineering Student @UFMS
+### Software Engineering Student @UFMS
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineering+student;Python+%7C+TypeScript+%7C+JavaScript;Building+projects+and+learning+every+day;Technology+%26+Social+Impact+%F0%9F%8C%B1" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌱 Sobre mim
+## Sobre mim
 
 🎓 Estudante de **Engenharia de Software na UFMS**
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌱 Technology & Social Impact
+## Technology & Social Impact
 
 Acredito que a tecnologia pode ser uma ferramenta para transformar problemas reais em soluções.
 
