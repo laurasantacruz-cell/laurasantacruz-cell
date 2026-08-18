@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou a Laura
 
-### 💻 Software Engineering Student @ UFMS
+### 💻 Software Engineering Student @UFMS
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineering+student;Python+%7C+TypeScript+%7C+JavaScript;Building+projects+and+learning+every+day;Technology+%26+Social+Impact+%F0%9F%8C%B1" />
 
@@ -25,40 +25,6 @@
 🌱 Interessada em **tecnologia e impacto social**
 
 🚀 Sempre aprendendo e transformando ideias em projetos.
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css,nodejs,git,github,vscode,figma" />
-
-</div>
-
----
-
-## 🚀 Projetos
-
-<div align="center">
-
-<a href="https://github.com/laurasantacruz-cell/Cut">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=Cut&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/laurasantacruz-cell/BD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=BD&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/laurasantacruz-cell/Desafio_TADS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=Desafio_TADS&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/laurasantacruz-cell/Trabalho_VVT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=Trabalho_VVT&theme=tokyonight" />
-</a>
-
-</div>
 
 ---
 
