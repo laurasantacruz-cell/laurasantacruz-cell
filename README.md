@@ -38,6 +38,16 @@ Busco desenvolver minhas habilidades em **Engenharia de Software** enquanto part
 
 ---
 
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css,nodejs,git,github,vscode,figma" />
+
+</div>
+
+---
+
 ## 📚 Atualmente aprendendo
 
 ```text
