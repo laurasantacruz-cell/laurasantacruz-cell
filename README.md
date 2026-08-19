@@ -87,44 +87,6 @@ I'm especially interested in the connection between:
 └── 📐 Software Design
 ```
 
----
-
-## 💚 Some things I've built
-
-<div align="center">
-
-<a href="https://github.com/laurasantacruz-cell/Cut">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=Cut&theme=dark&title_color=329542&icon_color=329542&text_color=C8D5CC&bg_color=10251A" />
-</a>
-
-<a href="https://github.com/laurasantacruz-cell/BD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=BD&theme=dark&title_color=329542&icon_color=329542&text_color=C8D5CC&bg_color=10251A" />
-</a>
-
-<a href="https://github.com/laurasantacruz-cell/Desafio_TADS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=Desafio_TADS&theme=dark&title_color=329542&icon_color=329542&text_color=C8D5CC&bg_color=10251A" />
-</a>
-
-<a href="https://github.com/laurasantacruz-cell/Trabalho_VVT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laurasantacruz-cell&repo=Trabalho_VVT&theme=dark&title_color=329542&icon_color=329542&text_color=C8D5CC&bg_color=10251A" />
-</a>
-
-</div>
-
----
-
-## 💚 GitHub activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=laurasantacruz-cell&show_icons=true&hide_border=true&title_color=329542&icon_color=329542&text_color=C8D5CC&bg_color=10251A&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasantacruz-cell&layout=compact&hide_border=true&title_color=329542&text_color=C8D5CC&bg_color=10251A&langs_count=6"/>
-
-</div>
-
----
-
 ## 💚 A little more about me
 
 Beyond coding, I'm interested in **people, collaboration and social entrepreneurship**.
