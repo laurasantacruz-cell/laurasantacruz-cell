@@ -4,13 +4,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=329542&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+TYPESCRIPT+%7C+JAVASCRIPT;LEARNING%2C+BUILDING+AND+CREATING;TECHNOLOGY+WITH+PURPOSE+%F0%9F%92%9A"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=329542&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+TYPESCRIPT+%7C+JAVASCRIPT;LEARNING%2C+BUILDING+AND+CREATING;TECHNOLOGY+WITH+PURPOSE"/>
 
 </div>
 
 ---
 
-## 💚 About me
+## About me
 
 I'm a **Software Engineering student at UFMS**, interested in software development, technology and the process of turning ideas into real solutions.
 
@@ -40,15 +40,15 @@ I'm especially interested in the connection between:
 
 <div align="center">
 
-**Technology** · **People** · **Innovation** · **Social Impact** 💚
+**Technology** · **People** · **Innovation** · **Social Impact** 
 
 </div>
 
 ---
 
-## 💚 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <div align="center">
 
@@ -56,7 +56,7 @@ I'm especially interested in the connection between:
 
 </div>
 
-### 🌐 Web & Backend
+###  Web & Backend
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I'm especially interested in the connection between:
 
 </div>
 
-### 🔧 Tools
+###  Tools
 
 <div align="center">
 
@@ -74,19 +74,19 @@ I'm especially interested in the connection between:
 
 ---
 
-## 💚 Currently
+##  Currently
 
 ```text
-📖 Studying Software Engineering
+ Studying Software Engineering
 │
-├── 🏗️ Software Architecture
-├── 🧪 Software Testing
-├── 🔀 Git & Version Control
-├── 🖥️ Backend Development
-├── 🌐 Web Development
-└── 📐 Software Design
+├── Software Architecture
+├── Software Testing
+├── Git & Version Control
+├── Backend Development
+├── Web Development
+└── Software Design
 ```
-## 💚 A little more about me
+##  A little more about me
 
 Beyond coding, I'm interested in **people, collaboration and social entrepreneurship**.
 
@@ -94,7 +94,7 @@ I enjoy working on projects where different areas come together and technology b
 
 ---
 
-## 💚 Let's connect
+##  Let's connect
 
 <div align="center">
 
