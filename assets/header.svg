@@ -21,7 +21,7 @@
   </defs>
 
   <!-- Fundo -->
-  <rect width="1200" height="350" fill="url(#background)"/>
+  <rect width="1200" height="300" fill="url(#background)"/>
 
   <!-- Grid estilo arcade -->
   <g opacity="0.12" stroke="#FFFFFF">
@@ -127,7 +127,6 @@
     y="295"
     text-anchor="middle"
     font-size="22">
-
 
   </text>
 
