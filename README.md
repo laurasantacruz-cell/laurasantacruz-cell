@@ -91,17 +91,6 @@ I'm especially interested in the connection between:
 Beyond coding, I'm interested in **people, collaboration and social entrepreneurship**.
 
 I enjoy working on projects where different areas come together and technology becomes a tool to make ideas happen.
-
-```text
-Technology
-     ↓
-  Ideas
-     ↓
-  People
-     ↓
- Impact 💚
-```
-
 ---
 
 ## 💚 Let's connect
