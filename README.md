@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=329542&section=header&text=Laura%20Santa%20Cruz&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=329542&section=header&text=Laura%20Santa%20Cruz&fontSize=38&fontColor=FFFFFF&fontAlignY=40&font=Press%20Start%202P&animation=fadeIn"/>
 
-### 💚 Software Engineering Student @ UFMS
+### Software Engineering Student @ UFMS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=329542&center=true&vCenter=true&width=650&lines=Software+Engineering+student;Python+%7C+TypeScript+%7C+JavaScript;Learning%2C+building+and+creating;Technology+with+purpose+%F0%9F%92%9A" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=329542&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+TYPESCRIPT+%7C+JAVASCRIPT;LEARNING%2C+BUILDING+AND+CREATING;TECHNOLOGY+WITH+PURPOSE+%F0%9F%92%9A" />
 
 </div>
 
@@ -30,7 +30,7 @@ Currently, I'm developing my skills in **software development, testing, architec
 
 ---
 
-## 💚 Tech & Social Impact
+## Tech & Social Impact
 
 I believe technology is more meaningful when it is created with a purpose.
 
@@ -86,7 +86,6 @@ I'm especially interested in the connection between:
 ├── 🌐 Web Development
 └── 📐 Software Design
 ```
-
 ## 💚 A little more about me
 
 Beyond coding, I'm interested in **people, collaboration and social entrepreneurship**.
