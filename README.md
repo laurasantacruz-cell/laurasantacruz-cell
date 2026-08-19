@@ -19,13 +19,13 @@ I enjoy learning through practice, building projects and exploring different are
 Currently, I'm developing my skills in **software development, testing, architecture and version control**, while working on academic and personal projects.
 
 ```text
-🎓 Software Engineering @ UFMS
-💻 Software Development
-💚 Technology & Social Impact
-🐍 Python
-⚡ TypeScript & JavaScript
-🤖 Ararabots-UFMS
-✨ Always learning, always building
+- Software Engineering @ UFMS
+- Software Development
+- Technology & Social Impact
+- Python
+- TypeScript & JavaScript
+- Ararabots-UFMS
+- Always learning, always building
 ```
 
 ---
@@ -91,6 +91,7 @@ I'm especially interested in the connection between:
 Beyond coding, I'm interested in **people, collaboration and social entrepreneurship**.
 
 I enjoy working on projects where different areas come together and technology becomes a tool to make ideas happen.
+
 ---
 
 ## 💚 Let's connect
