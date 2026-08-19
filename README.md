@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=329542&section=header&text=Laura%20Santa%20Cruz&fontSize=38&fontColor=FFFFFF&fontAlignY=40&font=Press%20Start%202P&animation=fadeIn"/>
 
-### Software Engineering Student @ UFMS
+### Software Engineering Student @ufms
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=329542&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+TYPESCRIPT+%7C+JAVASCRIPT;LEARNING%2C+BUILDING+AND+CREATING;TECHNOLOGY+WITH+PURPOSE+%F0%9F%92%9A" />
 
