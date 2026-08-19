@@ -1,0 +1,135 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Gradiente verde -->
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10251A"/>
+      <stop offset="100%" stop-color="#329542"/>
+    </linearGradient>
+
+    <!-- Glow verde -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1200" height="350" fill="url(#background)"/>
+
+  <!-- Grid estilo arcade -->
+  <g opacity="0.12" stroke="#FFFFFF">
+
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+
+    <line x1="100" y1="0" x2="100" y2="350"/>
+    <line x1="200" y1="0" x2="200" y2="350"/>
+    <line x1="300" y1="0" x2="300" y2="350"/>
+    <line x1="400" y1="0" x2="400" y2="350"/>
+    <line x1="500" y1="0" x2="500" y2="350"/>
+    <line x1="600" y1="0" x2="600" y2="350"/>
+    <line x1="700" y1="0" x2="700" y2="350"/>
+    <line x1="800" y1="0" x2="800" y2="350"/>
+    <line x1="900" y1="0" x2="900" y2="350"/>
+    <line x1="1000" y1="0" x2="1000" y2="350"/>
+    <line x1="1100" y1="0" x2="1100" y2="350"/>
+
+  </g>
+
+  <!-- Elementos decorativos -->
+  <circle cx="100" cy="80" r="3" fill="#FFFFFF">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1080" cy="120" r="3" fill="#FFFFFF">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="950" cy="280" r="2" fill="#FFFFFF">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Nome -->
+  <text
+    x="600"
+    y="155"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="48"
+    font-weight="bold"
+    filter="url(#glow)">
+
+    LAURA SANTA CRUZ
+
+  </text>
+
+  <!-- Cursor piscando -->
+  <rect x="875" y="120" width="5" height="45" fill="#FFFFFF">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.8s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+  <!-- Subtítulo -->
+  <text
+    x="600"
+    y="210"
+    text-anchor="middle"
+    fill="#C8D5CC"
+    font-family="monospace"
+    font-size="18">
+
+    &gt; SOFTWARE ENGINEERING STUDENT @ UFMS
+
+  </text>
+
+  <!-- Tecnologias -->
+  <text
+    x="600"
+    y="250"
+    text-anchor="middle"
+    fill="#7BAE8A"
+    font-family="monospace"
+    font-size="16">
+
+    PYTHON  •  TYPESCRIPT  •  JAVASCRIPT
+
+  </text>
+
+  <!-- Coração -->
+  <text
+    x="600"
+    y="295"
+    text-anchor="middle"
+    font-size="22">
+
+    💚
+
+  </text>
+
+</svg>
