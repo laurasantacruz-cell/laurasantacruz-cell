@@ -112,7 +112,7 @@ Technology
 <img src="https://img.shields.io/badge/GitHub-10251A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/laura-santa-cruz-624a45249">
 <img src="https://img.shields.io/badge/LinkedIn-329542?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
